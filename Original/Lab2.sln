@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab2", "Lab2.vcproj", "{38045FB9-E2D3-4719-BC77-7E996C5A2667}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "Server\Server.vcproj", "{D544991A-DBBE-4190-BC7A-DB1E690F799F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{38045FB9-E2D3-4719-BC77-7E996C5A2667}.Debug.ActiveCfg = Debug|Win32
+		{38045FB9-E2D3-4719-BC77-7E996C5A2667}.Debug.Build.0 = Debug|Win32
+		{38045FB9-E2D3-4719-BC77-7E996C5A2667}.Release.ActiveCfg = Release|Win32
+		{38045FB9-E2D3-4719-BC77-7E996C5A2667}.Release.Build.0 = Release|Win32
+		{D544991A-DBBE-4190-BC7A-DB1E690F799F}.Debug.ActiveCfg = Debug|Win32
+		{D544991A-DBBE-4190-BC7A-DB1E690F799F}.Debug.Build.0 = Debug|Win32
+		{D544991A-DBBE-4190-BC7A-DB1E690F799F}.Release.ActiveCfg = Release|Win32
+		{D544991A-DBBE-4190-BC7A-DB1E690F799F}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
